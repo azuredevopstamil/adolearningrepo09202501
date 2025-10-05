@@ -1,1 +1,3 @@
 first file on my new repo
+
+file is going to explain the PR commit 

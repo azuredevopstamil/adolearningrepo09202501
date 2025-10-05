@@ -1,0 +1,7 @@
+variable:
+  name: myVar
+  value: 'Hello, World!'
+steps:
+- powershell: | 
+    Write-Host "The value of myVar is: $(myVar)"
+  displayName: 'Display myVar'
