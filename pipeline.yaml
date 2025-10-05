@@ -1,0 +1,3 @@
+variable:
+  name: myVar
+  value: 'Hello, World!'
